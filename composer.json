@@ -1,12 +1,16 @@
 {
   "name": "lucasschlindwein/socket",
-  "description": "description",
+  "description": "Chat utilizando web socket",
   "minimum-stability": "stable",
-  "license": "proprietary",
+  "license": "MIT",
   "authors": [
     {
-      "name": "lucas.schlindwein",
+      "name": "Lucas Schlindwein",
       "email": "developer.schilin@gmail.com"
+    },
+    {
+      "name": "Arthur Kunrath",
+      "email": "arthurfranzenkunrath@gmail.com"
     }
   ],
   "autoload": {
