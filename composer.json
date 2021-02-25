@@ -1,0 +1,20 @@
+{
+  "name": "lucasschlindwein/socket",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "lucas.schlindwein",
+      "email": "developer.schilin@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Source\\": "source/"
+    }
+  },
+  "require": {
+    "cboden/ratchet": "v0.4.*"
+  }
+}
